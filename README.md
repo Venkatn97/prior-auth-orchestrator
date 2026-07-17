@@ -3,9 +3,6 @@ cat > README.md << 'EOF'
 
 A production-shaped, multi-agent AI system that automates healthcare prior authorization decisions, from raw request intake through policy research, compliance checking, and human-in-the-loop approval.
 
-**Live demo**: https://priorauth.receiptvault.shop
-**Repo**: https://github.com/Venkatn97/prior-auth-orchestrator
-
 ## What it does
 
 Given a raw prior authorization request (patient, procedure, diagnosis), the system:
