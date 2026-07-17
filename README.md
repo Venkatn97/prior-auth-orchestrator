@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Prior Authorization Orchestrator
 
 A production-shaped, multi-agent AI system that automates healthcare prior authorization decisions, from raw request intake through policy research, compliance checking, and human-in-the-loop approval.
